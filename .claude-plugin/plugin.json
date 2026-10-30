@@ -1,0 +1,16 @@
+{
+  "name": "pixel-iso",
+  "version": "0.1.0",
+  "description": "Escenas isométricas 2:1 en pixel art (edificios, salas, muebles, gente) dibujadas por código con el kit de Guremu City: rampas de seis tonos, tramado, contorno de 1 px y volúmenes con profundidad.",
+  "author": {
+    "name": "Guremu"
+  },
+  "keywords": [
+    "pixel-art",
+    "isometric",
+    "isometrico",
+    "sprites",
+    "python"
+  ],
+  "license": "MIT"
+}

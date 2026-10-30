@@ -1,0 +1,14 @@
+{
+  "name": "pixel-iso",
+  "owner": {
+    "name": "Guremu"
+  },
+  "description": "pixel-iso: a Claude Code skill that draws isometric pixel art scenes by code.",
+  "plugins": [
+    {
+      "name": "pixel-iso",
+      "source": "./",
+      "description": "Isometric 2:1 pixel art scenes drawn by code: buildings, rooms, furniture, people and vehicles."
+    }
+  ]
+}
